@@ -12,6 +12,7 @@
 1. Lesson 3: Working with multiple containers
     1. Adding additional python libraries
     1. Setting up a Docker config file
+    1. Stopping and remoding individual containers and images
 
 ### Inspiration
 This tutorial was inspired by the following article:
